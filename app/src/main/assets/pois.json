@@ -1,0 +1,242 @@
+[
+	{
+		"name" : "Casa Terracota",
+		"score" : "4.4",
+		"description" : "Casa de terracota más grande del mundo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Laguna de Iguaque",
+		"score" : "4.5",
+		"description" : "Lago pintoresco y popular a gran altitud",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Granja De Avestruces",
+		"score" : "4.4",
+		"description" : "Avestruz",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Parque Nacional Natural Paramo de Iguaque",
+		"score" : "4.6",
+		"description" : "Lago protegido sagrado para los muiscas",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo Luis Alberto Acuña",
+		"score" : "4.6",
+		"description" : "Museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Gondava",
+		"score" : "4.4",
+		"description" : "Parque temático con grandes dinosaurios a escala",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Instituto Von Humboldt",
+		"score" : "4.7",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Plaza Mayor de Villa de Leyva",
+		"score" : "4.8",
+		"description" : "Gran plaza adoquinada y una iglesia colonial",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "El Fósil",
+		"score" : "4.5",
+		"description" : "Fósil y museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Mirador El Santo Sagrado Corazon de Jesus",
+		"score" : "4.8",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Gondava El Gran Valle de los Dinosaurios",
+		"score" : "4.5",
+		"description" : "Parque",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Plaza de Mercado",
+		"score" : "4.4",
+		"description" : "Mercado",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Casa Museo Antonio Nariño",
+		"score" : "4.7",
+		"description" : "Antigua casa de Antonio Nariño y museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Viñedo Umaña Dajud",
+		"score" : "4.3",
+		"description" : "Vino y cata de vinos",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo Paleontológico de Villa de Leyva",
+		"score" : "4.4",
+		"description" : "Museo y fósil",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo Del Fósil",
+		"score" : "4.5",
+		"description" : "Museo centrado en un fósil de Kronosaurus",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Centro de Investigaciones",
+		"score" : "4.7",
+		"description" : "Fósil y museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Convento de Santo Ecce-Homo",
+		"score" : "4.6",
+		"description" : "Convento, Monasterio y arquitectura",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Sol Muisca Territorio Ancestral",
+		"score" : "4.6",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Eco Parque Conscientia",
+		"score" : "4.8",
+		"description" : "Parque",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo Del Fósil Villa de Leyva Boyacá",
+		"score" : "4.5",
+		"description" : "Fósil",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Observatorio Astronómico de Zaquencipa",
+		"score" : "4.5",
+		"description" : "Observatorio",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Parque Mayoral",
+		"score" : "4.4",
+		"description" : "Parque",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Iglesia de El Carmen",
+		"score" : "4.8",
+		"description" : "Iglesia",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Desierto de Villa de Leyva",
+		"score" : "4.5",
+		"description" : "Desierto",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo del Carmen - Arte Religioso",
+		"score" : "4.5",
+		"description" : "Museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Parque Antonio Nariño",
+		"score" : "4.6",
+		"description" : "Parque",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Alquiler de Motos Villa de Leyva",
+		"score" : "4.4",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Cerro San Marcos",
+		"score" : "2",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Villa de Leyva Plaza",
+		"score" : "4.7",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Parroquia Nuestra Señora del Rosario",
+		"score" : "4.7",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "El Gran Valle de los Dinosaurios",
+		"score" : "4.3",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Ruinas de Gachantiva",
+		"score" : "4.5",
+		"description" : "Historia",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo Molino de la Primavera",
+		"score" : "4.5",
+		"description" : "Museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Real Fábrica de Licores",
+		"score" : "3.7",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Pozo de la vieja",
+		"score" : "4.3",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Rio Samacá",
+		"score" : "",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Casa del Primer Congreso",
+		"score" : "4.3",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "PARQUE DEL AVION",
+		"score" : "4.2",
+		"description" : "",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	},
+	{
+		"name" : "Museo Prehistórico",
+		"score" : "4.6",
+		"description" : "Museo",
+		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg"
+	}
+]

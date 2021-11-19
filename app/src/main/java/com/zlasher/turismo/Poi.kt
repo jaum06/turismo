@@ -1,7 +1,6 @@
 package com.zlasher.turismo
 
-class Poi {
-    val name: String,
-    val score : String,
-    val description : String
-}
+
+import com.google.gson.annotations.SerializedName
+
+class Poi : ArrayList<PoiItem>()

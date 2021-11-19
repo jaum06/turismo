@@ -24,7 +24,7 @@
             android:layout_height="match_parent">
 
             <ImageView
-                android:id="@+id/imageView3"
+                android:id="@+id/picture_image_view"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:layout_marginStart="8dp"
@@ -35,7 +35,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/parqueantonionariño" />
+                app:srcCompat="@drawable/parqueantonionarino" />
 
             <TextView
                 android:id="@+id/name_text_view"
@@ -46,7 +46,7 @@
                 android:layout_marginTop="8dp"
                 android:text="@string/parque_antonio_narino"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+                app:layout_constraintTop_toBottomOf="@+id/picture_image_view" />
 
             <TextView
                 android:id="@+id/score_text_view"
@@ -66,7 +66,9 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
                 android:text="@string/description"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/score_text_view" />
         </androidx.constraintlayout.widget.ConstraintLayout>
