@@ -11,4 +11,7 @@
     <string name="sitios_recomendados">Sitios recomendados:</string>
     <string name="casa_terracota">1. Casa Terracota</string>
     <string name="plaza_mayor">2. Plaza Mayor</string>
+    <string name="score">4.6</string>
+    <string name="description">Parque</string>
+    <string name="parque_antonio_narino">Parque Antonio Nariño</string>
 </resources>
