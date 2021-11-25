@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VillaDeLeyva</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="villa_de_leyva">VILLA DE LEYVA</string>
+    <string name="tunja_boyaca_colombia">Tunja, Boyacá, Colombia</string>
+    <string name="coordenadas">"Coordenadas: "</string>
+    <string name="coordenada">5°37′59″N 73°31′32″O</string>
+    <string name="temperatura">"Temperatura: "</string>
+    <string name="temp">20 °C</string>
+    <string name="informacion_general">"Información General: "</string>
+    <string name="descripcion">Villa de Leyva es una ciudad colombiana en el noreste de Bogotá. Es conocida por sus edificios coloniales encalados, las calles con adoquines y la gran Plaza Mayor. En la plaza está la iglesia de Nuestra Señora del Rosario del siglo XVII y la Casa del Primer Congreso de las Provincias Unidas, donde se redactaron las nuevas leyes después de la independencia de 1812. Al suroeste de la plaza está la Casa Museo Antonio Nariño, donde falleció este héroe de guerra.</string>
+    <string name="sitios_recomendados">Sitios recomendados:</string>
+    <string name="casa_terracota">1. Casa Terracota</string>
+    <string name="plaza_mayor">2. Plaza Mayor</string>
+    <string name="score">4.6</string>
+    <string name="description">Parque</string>
+    <string name="parque_antonio_narino">Parque Antonio Nariño</string>
+</resources>
