@@ -23,6 +23,7 @@ class PoiAdapter(
 
     override fun onBindViewHolder(holder: PoiViewHolder, position: Int) {
         val poi = poiList[position]
+        holder.itemView.setOnClickListener{onItemClicked(poiList[position])}
         holder.bind(poi)
     }
 
