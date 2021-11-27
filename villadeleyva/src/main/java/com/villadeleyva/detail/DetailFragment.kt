@@ -29,7 +29,7 @@ class DetailFragment : Fragment() {
 
         with(detailBinding){
             textView.text = poi.name
-            textView10.text = poi.score.toString()
+            textView8.text = poi.score.toString()
             textView9.text = poi.description
             Picasso.get().load(poi.urlPicture).into(imageView)
         }
