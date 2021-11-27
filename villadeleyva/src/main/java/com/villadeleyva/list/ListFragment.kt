@@ -5,9 +5,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
+import androidx.navigation.NavController
+import androidx.navigation.Navigation
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.gson.Gson
+import com.villadeleyva.R
 import com.villadeleyva.databinding.FragmentListBinding
 import com.villadeleyva.model.Poi
 import com.villadeleyva.model.PoiItem
@@ -36,6 +40,7 @@ class ListFragment : Fragment() {
             adapter = poiAdapter
             setHasFixedSize(false)
         }
+        view.findViewById<Button>(R.id.preference_button).setOnClickListener { apreferencias() }
     }
 
     private fun onPoiClicked(poI:PoiItem){
@@ -48,6 +53,10 @@ class ListFragment : Fragment() {
         val gson = Gson()
         val poiList = gson.fromJson(poiString,Poi::class.java)
         return poiList
+    }
+
+    private fun apreferencias(){
+        findNavController().navigate(ListFragmentDirections.actionListFragmentToSettingsFragment())
     }
 
 }
