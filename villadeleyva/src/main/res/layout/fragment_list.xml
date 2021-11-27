@@ -128,7 +128,7 @@
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/poi_recycler_view"
-            android:layout_width="400dp"
+            android:layout_width="0dp"
             android:layout_height="315dp"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
