@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.gson.Gson
 import com.villadeleyva.R
 import com.villadeleyva.databinding.FragmentListBinding
+import com.villadeleyva.main.MainActivity
 import com.villadeleyva.model.Poi
 import com.villadeleyva.model.PoiItem
 
@@ -33,6 +34,7 @@ class ListFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        (activity as MainActivity?)?.hideIcon()
         listPoi = loadMockPoiFromJson()
         poiAdapter = PoiAdapter(listPoi,onItemClicked = {onPoiClicked(it)})
         listBinding.poiRecyclerView.apply{
@@ -40,7 +42,6 @@ class ListFragment : Fragment() {
             adapter = poiAdapter
             setHasFixedSize(false)
         }
-        view.findViewById<Button>(R.id.preference_button).setOnClickListener { apreferencias() }
     }
 
     private fun onPoiClicked(poI:PoiItem){
@@ -54,9 +55,4 @@ class ListFragment : Fragment() {
         val poiList = gson.fromJson(poiString,Poi::class.java)
         return poiList
     }
-
-    private fun apreferencias(){
-        findNavController().navigate(ListFragmentDirections.actionListFragmentToSettingsFragment())
-    }
-
 }

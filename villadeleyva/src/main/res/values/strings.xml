@@ -36,4 +36,5 @@
     <string name="preference">Preferencias</string>
     <string name="notifications">Notificaciones</string>
     <string name="sound_notifications">Activar Sonido Notificaciones</string>
+    <string name="ajustes">Ajustes</string>
 </resources>

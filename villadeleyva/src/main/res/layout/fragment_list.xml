@@ -144,16 +144,6 @@
             app:layout_constraintVertical_bias="0.0"
             tools:listitem="@layout/card_view_poi_item" />
 
-        <Button
-            android:id="@+id/preference_button"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:background="@android:color/transparent"
-            android:foreground="@drawable/ic_baseline_settings_24"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintTop_toTopOf="@+id/imageViewx"
-            tools:ignore="SpeakableTextPresentCheck" />
-
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
