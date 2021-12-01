@@ -12,5 +12,7 @@ data class PoiItem(
     @SerializedName("score")
     val score: String,
     @SerializedName("urlPicture")
-    val urlPicture: String
+    val urlPicture: String,
+    @SerializedName("detail")
+    val detail: String
 ): Serializable
