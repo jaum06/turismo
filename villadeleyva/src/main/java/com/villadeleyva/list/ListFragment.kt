@@ -5,9 +5,13 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageButton
 import androidx.lifecycle.ViewModelProvider
+import androidx.navigation.NavController
+import androidx.navigation.Navigation
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.villadeleyva.R
 import com.villadeleyva.databinding.FragmentListBinding
 import com.villadeleyva.main.MainActivity
 import com.villadeleyva.model.PoiItem
@@ -43,6 +47,9 @@ class ListFragment : Fragment() {
             layoutManager = LinearLayoutManager(context,LinearLayoutManager.HORIZONTAL,false)
             adapter = poiAdapter
             setHasFixedSize(false)
+        }
+        listBinding.mapButtons.setOnClickListener {
+            findNavController().navigate(ListFragmentDirections.actionListFragmentToMapsFragment())
         }
     }
 
