@@ -1,0 +1,315 @@
+{
+  "lugares":
+  [
+  	{
+  		"name" : "Casa Terracota",
+  		"score" : "4.4",
+  		"description" : "Casa de terracota más grande del mundo",
+  		"longitud": 5.6351173,
+  		"latitud": -73.5375441,
+  		"zoom": 18,
+  		"urlPicture" : "https://images.adsttc.com/media/images/5d49/9e6e/284d/d1ea/cd00/010e/large_jpg/portada.jpg",
+  		"detail" : "Arquitectura y diseño, así como otras artes y oficios, se fusionan en este mágico lugar. Desde su origen y concepto, el arquitecto y ceramista colombiano Octavio Mendoza Morales, ha buscado promover un estilo de vida alternativo y armonioso, tanto para el individuo, la comunidad, como para el entorno circundante."
+  	},
+  	{
+  		"name" : "Laguna de Iguaque",
+  		"score" : "4.5",
+  		"description" : "Lago pintoresco y popular a gran altitud",
+  		"longitud": 5.6427075,
+  		"latitud": -73.5647329,
+  		"zoom": 17.04,
+  		"urlPicture" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Santuario_Iguaque_03.JPG/1280px-Santuario_Iguaque_03.JPG",
+  		"detail" : "Entre las variadas actividades que involucran los ecosistemas ricos de fauna y flora que rodean el municipio, un plan imperdible es el ascenso a la laguna de Iguaque, ubicada a 3.800 metros de altura y a media hora del casco colonial de Villa de Leyva. Un refugio de tranquilidad ideal para reconectar con la naturaleza."
+  	},
+  	{
+  		"name" : "Granja De Avestruces",
+  		"score" : "4.4",
+  		"description" : "Avestruz",
+  		"longitud": 5.616596,
+  		"latitud": -73.5589479,
+  		"zoom": 17.21,
+  		"urlPicture" : "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/d6/bc/aa.jpg",
+  		"detail" : "Emprendimientos locales ofrecen múltiples alternativas de diversión entre los cuales se destaca este espacio para interactuar con estos exóticos animales, conocer, huevos, machos hembras y crías a solo seis kilómetros del casco urbano de Villa de Leyva. "
+  	},
+  	{
+  		"name" : "Parque Nacional Natural Paramo de Iguaque",
+  		"score" : "4.6",
+  		"description" : "Lago protegido sagrado para los muiscas",
+  		"longitud": 5.6728666,
+  		"latitud": -73.4617686,
+  		"zoom": 17,
+  		"urlPicture" : "https://colombiapais.com/pagina-parques-nacionales-naturales/imagenes/santuario-de-flora-y-fauna-guanenta-alt-rio-fonce.jpg",
+  		"detail" : "Entre las variadas actividades que involucran los ecosistemas ricos de fauna y flora que rodean el municipio, un plan imperdible es el ascenso a la laguna de Iguaque, ubicada a 3.800 metros de altura y a media hora del casco colonial de Villa de Leyva. Un refugio de tranquilidad ideal para reconectar con la naturaleza."
+  	},
+  	{
+  		"name" : "Museo Luis Alberto Acuña",
+  		"score" : "4.6",
+  		"description" : "Museo",
+  		"longitud": 5.6344212,
+  		"latitud": -73.5238871,
+  		"zoom": 18.04,
+  		"urlPicture" : "https://www.museoscolombia.info/wp-content/uploads/2020/04/laacuna.jpg",
+  		"detail" : "Este museo ubicado en la Plaza Principal conserva parte de las pinturas, esculturas y frisos del artista que le da nombre. Adicionalmente, hay fósiles y diversos objetos arqueológicos y artesanales coleccionados por el maestro Acuña, uno de los pintores más destacados de Colombia del siglo XX."
+  	},
+  	{
+  		"name" : "Gondava",
+  		"score" : "4.4",
+  		"description" : "Parque temático con grandes dinosaurios a escala",
+  		"longitud": 5.63101,
+  		"latitud": -73.5709795,
+  		"zoom": 17.42,
+  		"urlPicture" : "https://elturismoencolombia.com/wp-content/uploads/2018/12/villa_leyva_gondava_turismo_colombia_travel.jpg",
+  		"detail" : "Este Parque temático con grandes dinosaurios a escala nos lleva a través de la evolución y recrea un mundo de gigantes llenos de vida y fuerza."
+  	},
+  	{
+  		"name" : "Instituto Von Humboldt",
+  		"score" : "4.7",
+  		"description" : "Museo",
+  		"longitud": 5.6344217,
+  		"latitud": -73.5205146,
+  		"zoom": 18.04,
+  		"urlPicture" : "https://pbs.twimg.com/media/CfssbMfXIAAz8PA.jpg",
+  		"detail" : "El Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, una corporación civil sin ánimo de lucro vinculada al Ministerio de Ambiente, tiene ubicada en este municipio la sede de su Repositorio Institucional de Documentación Científica."
+  	},
+  	{
+  		"name" : "Plaza Mayor de Villa de Leyva",
+  		"score" : "4.8",
+  		"description" : "Gran plaza adoquinada y una iglesia colonial",
+  		"longitud": 5.6338693,
+  		"latitud": -73.5238809,
+  		"zoom": 18.67,
+  		"urlPicture" : "https://upload.wikimedia.org/wikipedia/commons/b/b0/Plaza_Central_o_Plaza_Principal%E2%80%94_Villa_de_Leyva%2C_Boyac%C3%A1%2C_Colombia.jpg",
+  		"detail" : "En el centro del municipio está esta superficie empedrada  de 14.000 m²  y epicentro de  los festivales y celebraciones más populares de la región. Allí se encuentra en perfecto estado  la Iglesia Parroquial que se construyó en la primera mitad del siglo XVII y que es un punto de referencia obligado."
+  	},
+  	{
+  		"name" : "Mirador El Santo Sagrado Corazon de Jesus",
+  		"score" : "4.8",
+  		"description" : "Mirador",
+  		"longitud": 5.6257492,
+  		"latitud": -73.5141887,
+  		"zoom": 16.38,
+  		"urlPicture" : "https://hospedajelatierrita.com/wp-content/uploads/2021/06/Mirador-El-Santo-1024x1024.png",
+  		"detail" : "Ubicado a 2.400 msnm, el Mirador Colina El Santo es uno de los lugares de interés local visitado por quienes les gusta conocer nuevas rutas y explorar los lugares que visitan. En lo alto se encuentra una escultura del Sagrado Corazón de Jesús. Al mirador se puede acceder desde la Plaza Principal del pueblo, específicamente por la calle 12."
+  	},
+  	{
+  		"name" : "Plaza de Mercado",
+  		"score" : "4.4",
+  		"description" : "Mercado",
+  		"longitud": 5.6313021,
+  		"latitud": -73.5209143,
+  		"zoom": 17.02,
+  		"urlPicture" : "https://1.bp.blogspot.com/-oFSEGrwk7Ys/Wod4rYFAZuI/AAAAAAAAHXY/UuwSvXO1se8JeAr3IRswQm0IshGxaX8pgCKgBGAs/s640/cumple-villa-de-leyva.jpg",
+  		"detail" : "El mercado de Villa de Leyva existe hace varias décadas, es una tradición en la cual los comerciantes y productores se dan cita cada sábado para vender variedad de productos agrícolas, comida y objetos en diferentes materiales de utilidad hogareña."
+  	},
+  	{
+  		"name" : "Casa Museo Antonio Nariño",
+  		"score" : "4.7",
+  		"description" : "Antigua casa de Antonio Nariño y museo",
+  		"longitud": 5.6322506,
+  		"latitud": -73.5251205,
+  		"zoom": 18.87,
+  		"urlPicture" : "https://www.pueblospatrimonio.com.co/images/atractivos/17/casa-museo-antonio-narino-1.jpg",
+  		"detail" : "La Casa Museo Antonio Nariño lidera la divulgación del pensamiento de este prócer de la independecia, en especial los Derechos del Hombre y del Ciudadano, así como realiza actividades culturales en beneficio de la comunidad.  En esta bella casa colonial del Siglo XVII, recientemente restaurada, pueden encontrar piezas relativas a la época y vida de Don Antonio Nariño.  Destaca su colección de cartas y la traducción de los Derechos del Hombre que enmarcan el claustro principal de la casa."
+  	},
+  	{
+  		"name" : "Viñedo Umaña Dajud",
+  		"score" : "4.3",
+  		"description" : "Vino y cata de vinos",
+  		"longitud": 5.6015213,
+  		"latitud": -73.5543976,
+  		"zoom": 17,
+  		"urlPicture" : "https://images.squarespace-cdn.com/content/v1/5fb835ccc826a723c1eb5874/1606083534421-1VWOEENIJPQAM4X0KEZ7/vi%C3%B1os.jpg",
+  		"detail" : "El viñedo se encuentra abierto viernes, sábados, domingos y festivos de 9 a.m. a 6 p.m. Las visitas del viñedo comienzan cada media hora desde la apertura. La última visita guiada comienza a las 5 p.m."
+  	},
+  	{
+  		"name" : "Museo Paleontológico de Villa de Leyva",
+  		"score" : "4.4",
+  		"description" : "Museo y fósil",
+  		"longitud": 5.6436279,
+  		"latitud": -73.5170576,
+  		"zoom": 17.62,
+  		"urlPicture" : "https://mibellavilla.com/wp-content/uploads/2014/12/paleontologico2.jpg",
+  		"detail" : "En este museo podrás encontrar la colección petrográfica, investiga cómo se forman, cómo se clasifican y qué podemos deducir de ellas. Custodia piezas provenientes de diferentes partes de Colombia y de distintos ambientes."
+  	},
+  	{
+  		"name" : "Museo Del Fósil",
+  		"score" : "4.5",
+  		"description" : "Museo centrado en un fósil de Kronosaurus",
+  		"longitud": 5.637281,
+  		"latitud": -73.558832,
+  		"zoom": 18.25,
+  		"urlPicture" : "https://www.viviendocali.com/wp-content/uploads/2019/09/Camino-F%C3%B3sil-de-Villa-de-Leyva.jpg",
+  		"detail" : "En este museo  se pueden apreciar mas de 500 piezas del patrimonio paleontologico de la región, entre ellas un ejemplar de pliosaurio que es el mas completo encontrado hasta el momento y el único exhibido «in situ»."
+  	},
+  	{
+  		"name" : "Convento de Santo Ecce-Homo",
+  		"score" : "4.6",
+  		"description" : "Convento, Monasterio y arquitectura",
+  		"longitud": 5.6790006,
+  		"latitud": -73.5954599,
+  		"zoom": 17.21,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/10/c1/5a/93/interior-del-claustro.jpg",
+  		"detail" : "El convento del Santo Ecce Homo en Colombia es un convento dominico del siglo XVII situado en el municipio de Sutamarchán del departamento de Boyacá a 8 kilómetros de Villa de Leyva. El lugar hace parte de los monumentos declarados patrimonios de la Nación."
+  	},
+  	{
+  		"name" : "Sol Muisca Territorio Ancestral",
+  		"score" : "4.6",
+  		"description" : "Centro Cultural",
+  		"longitud": 5.6469525,
+  		"latitud": -73.5603984,
+  		"zoom": 17.42,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/15/18/7b/fc/maloka.jpg",
+  		"detail" : "primer centro cultural y de interpretación de la cultura Muisca.\nSe crea como una necesidad de ampliar y complementar a los visitantes las vivencias de una de las culturas más significativas en la época prehispánica.\nAdemás presenta la sabiduría astronómica de los MUISCAS a través de calendario solar. Puedes disfrutar de talleres y campamentos astronómicos y de astrofotografía con observación por telescopios."
+  	},
+  	{
+  		"name" : "Eco Parque Conscientia",
+  		"score" : "4.8",
+  		"description" : "Parque",
+  		"longitud": 5.6966637,
+  		"latitud": -73.5241773,
+  		"zoom": 17.21,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/10/b3/93/e6/tres-epocas-diferentes.jpg",
+  		"detail" : "Este escenario tiene tres ejes tematicos : 1. La presencia de Dinosaurios, lo que se puede evidenciar con la alta presencia de fosiles marinos en la zona; 2. La presencia de vestigios indígenas Muiscas, antiguos pobladores del territorio; 3 La presencia de la colonización española."
+  	},
+  	{
+  		"name" : "Observatorio Astronómico de Zaquencipa",
+  		"score" : "4.5",
+  		"description" : "Observatorio",
+  		"longitud": 5.6820183,
+  		"latitud": -73.5938863,
+  		"zoom": 18.04,
+  		"urlPicture" : "https://www.turismodeestrellas.com/m/p/600x338/media/files/3314_villa-de-leyva-noche.jpg",
+  		"detail" : "Este observatorio astronómico ofrece espectaculares noches oscuras de cielo profundo. Localizado a 2.200 metros, de altura sobre el nivel del mar."
+  	},
+  	{
+  		"name" : "Parque Mayoral",
+  		"score" : "4.4",
+  		"description" : "Parque",
+  		"longitud": 5.6820183,
+  		"latitud": -73.5938863,
+  		"zoom": 18.04,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/11/d4/97/1f/buenisimo.jpg",
+  		"detail" : "Ubicado en la vereda Sabana, a 8.5 km de Villa de Leyva, se encuentra Parque Mayoral con praderas, valles y montañas con una hermosa vegetación y la confluencia del río Cane y las quebradas La Cebada y La Colorada, bosques naturales, lagos y senderos."
+  	},
+  	{
+  		"name" : "Iglesia de El Carmen",
+  		"score" : "4.8",
+  		"description" : "Iglesia",
+  		"longitud": 5.6364343,
+  		"latitud": -73.523426,
+  		"zoom": 17.83,
+  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/carmen-templo-570x320.jpg",
+  		"detail" : "A unos cuantos metros de la Plaza mayor de Villa de Leyva se encuentra ubicada la iglesia de Nuestra Señora del Carmen, construida en 1850. Cuenta con dos capillas, una pequeña que pertenece al monasterio y está dedicada a la Virgen del Carmen y la capilla mayor denominada cariñosamente Mamá Linda."
+  	},
+  	{
+  		"name" : "Desierto de Villa de Leyva",
+  		"score" : "4.5",
+  		"description" : "Desierto",
+  		"longitud": 5.6223823,
+  		"latitud": -73.544705,
+  		"zoom": 17,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/16/96/00/3c/pozos-azules-villa-de.jpg",
+  		"detail" : "Esta área «desértica» ha dado forma al epicentro turístico del municipio de Villa de Leyva. Aquí, se encuentran amonitas de la prehistoria al levantar pequeñas rocas del suelo, también se hallan en la zona los célebres Pozos Azules, el Museo del Fósil, el Centro de Investigaciones Paleontológicas, la granja de avestruces y los sinuosos y emocionantes caminos de las cuatrimotos."
+  	},
+  	{
+  		"name" : "Museo del Carmen - Arte Religioso",
+  		"score" : "4.5",
+  		"description" : "Museo",
+  		"longitud": 5.6375232,
+  		"latitud": -73.5253922,
+  		"zoom": 18.67,
+  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/TEMPLO-NS-CARMEN-2-570x320.jpg",
+  		"detail" : "Ubicado en la Plazuela del Carmen a media cuadra de la plaza principal, en este Museo se puede apreciar una buena muestra de arte religioso de diferentes épocas de la historia colombiana y carmelitana. Cuenta con tesoros artísticos que dan testimonio de la fe y de la historia de la orden de los carmelitas con mas de 400 piezas entre esculturas, pinturas, material textil y escrito algunas procedentes del viejo continente y las demás de los talleres de la colonia del primer siglo de la República."
+  	},
+  	{
+  		"name" : "Parque Antonio Nariño",
+  		"score" : "4.6",
+  		"description" : "Parque",
+  		"longitud": 5.6324083,
+  		"latitud": -73.5238979,
+  		"zoom": 18.46,
+  		"urlPicture" : "https://elturismoencolombia.com/wp-content/uploads/2018/12/villa_leyva_parque_antonio_ricaurte_turismo_colombia_travel1.jpg",
+  		"detail" : "Parque construido en honor al Precursor de la independencia Antonio Nariño quien murió en Villa de Leyva. Igualmente podemos observar un busto erigido a uno de los colombianos más influyente de la historia."
+  	},
+  	{
+  		"name" : "Cerro San Marcos",
+  		"score" : "2",
+  		"description" : "Pico de Montaña",
+  		"longitud": 5.6012103,
+  		"latitud": -73.5212671,
+  		"zoom": 15.62,
+  		"urlPicture" : "https://www.villadeleyva.net/wp-content/uploads/2020/12/desierto-villa-de-leyva.jpg",
+  		"detail" : "Es una cumbre en Villa de Leyva y tiene una altitud de 2,629 metros. Cerro San Marcos está situada al noreste de Molino Viejo, cerca de Mirador."
+  	},
+  	{
+  		"name" : "Parroquia Nuestra Señora del Rosario",
+  		"score" : "4.7",
+  		"description" : "Iglesia Católica",
+  		"longitud": 5.6334478,
+  		"latitud": -73.5233023,
+  		"zoom": 19.29,
+  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/IGLESIA-PLAZA-DE-VILLA-1200x350-c-default.jpg",
+  		"detail" : "Fue construido en 1.604. En la edificación, de tipo barroco colonial, se conservan los retablos tallados en madera y recubiertos en oro."
+  	},
+  	{
+  		"name" : "Ruinas de Gachantiva",
+  		"score" : "4.5",
+  		"description" : "Museo de Historia",
+  		"longitud": 5.6850086,
+  		"latitud": -73.5445669,
+  		"zoom": 17.62,
+  		"urlPicture" : "https://www.villadeleyva.in/wp-content/uploads/2015/10/ruinas-de-gachantiva-viejo-en-villa-de-leyva.jpg",
+  		"detail" : "Las ruinas que vemos hoy, pertenecen a la antigua iglesia y a algunas construcciones civiles hechas en piedra adobe y tapia pisada que la circundaban. Las ruinas se encuentran ubicadas a 12 km aproximadamente del casco urbano de Villa de Leyva hacia el noroccidente via al pozo de la vieja."
+  	},
+  	{
+  		"name" : "Museo Molino de la Primavera",
+  		"score" : "4.5",
+  		"description" : "Museo",
+  		"longitud": 5.6799416,
+  		"latitud": -73.5659584,
+  		"zoom": 17.42,
+  		"urlPicture" : "https://www.villadeleyva.net/wp-content/uploads/2020/10/raquira-villa-de-leyva.jpg",
+  		"detail" : "Edificación colonial de arquitectura industrial situada en las vegas del río cane, en un sitio conocido como Valle Escondido entre Gachantivá y Villa de Leyva a 10 km del centro urbano vía Santa Sofía. Consta de dos plantas donde se conserva una antigua  maquinaria para moler granos de trigo y maíz."
+  	},
+  	{
+  		"name" : "Real Fábrica de Licores",
+  		"score" : "3.7",
+  		"description" : "Museo",
+  		"longitud": 5.6333177,
+  		"latitud": -73.5223234,
+  		"zoom": 20.67,
+  		"urlPicture" : "https://situr.boyaca.gov.co/wp-content/uploads/2017/05/Fabrica-de-licores-villa1.jpg",
+  		"detail" : "Construida en el siglo XVII. Sobre su portada hay un escudo real de España, grabado en piedra; en su interior un patio con fuente de estilo colonial. En época colonial funciono allí el cabildo y luego fue fabrica de aguardiente para abastecer toda la comarca."
+  	},
+  	{
+  		"name" : "Pozo de la vieja",
+  		"score" : "4.3",
+  		"description" : "Atracción Turística",
+  		"longitud": 5.6788988,
+  		"latitud": -73.5426992,
+  		"zoom": 17.42,
+  		"urlPicture" : "https://www.sula.com.co/wp-content/uploads/2021/01/Pozo-de-la-Vieja-1.jpg",
+  		"detail" : "El Pozo de la vieja está ubicado a dos km de Villa de Leyva en donde se resalta la riqueza hídrica del lugar y en donde se respira una energía única gracias a su ubicación."
+  	},
+  	{
+  		"name" : "Rio Samacá",
+  		"score" : "3",
+  		"description" : "Rio",
+  		"longitud": 5.6447798,
+  		"latitud": -73.573339,
+  		"zoom": 15.42,
+  		"urlPicture" : "https://s2.wklcdn.com/image_94/2848046/58426797/38996156Master.jpg",
+  		"detail" : "Río Samacá es un arroyo en Boyacá y tiene una altitud de 2065 metros"
+  	},
+  	{
+  		"name" : "Casa del Primer Congreso",
+  		"score" : "4.3",
+  		"description" : "Punto de Referencia",
+  		"longitud": 5.633914,
+  		"latitud": -73.5228896,
+  		"zoom": 18.67,
+  		"urlPicture" : "https://elturismoencolombia.com/wp-content/uploads/2018/12/villa_leyva_casa_primer_congreso_colombia_travel.jpg",
+  		"detail" : "En Villa de Leyva se puede visitar el sitio donde fueron redactadas las primeras leyes de Colombia como república luego del grito de Independencia, durante el I Congreso de las Provincias Unidas de la Nueva Granada. El encuentro tuvo lugar el 4 de octubre de 1812 en la casa que hoy se puede visitar, y en la que estuvieron políticos importantes de la época como Antonio Nariño, Simón Bolívar y Camilo Torres."
+  	}
+  ]
+}
