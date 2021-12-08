@@ -139,6 +139,26 @@
   		"zoom": 18.25,
   		"urlPicture" : "https://www.viviendocali.com/wp-content/uploads/2019/09/Camino-F%C3%B3sil-de-Villa-de-Leyva.jpg",
   		"detail" : "En este museo  se pueden apreciar mas de 500 piezas del patrimonio paleontologico de la región, entre ellas un ejemplar de pliosaurio que es el mas completo encontrado hasta el momento y el único exhibido «in situ»."
+  	},
+  	{
+  		"name" : "Convento de Santo Ecce-Homo",
+  		"score" : "4.6",
+  		"description" : "Convento, Monasterio y arquitectura",
+  		"longitud": 5.6790006,
+  		"latitud": -73.5954599,
+  		"zoom": 17.21,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/10/c1/5a/93/interior-del-claustro.jpg",
+  		"detail" : "El convento del Santo Ecce Homo en Colombia es un convento dominico del siglo XVII situado en el municipio de Sutamarchán del departamento de Boyacá a 8 kilómetros de Villa de Leyva. El lugar hace parte de los monumentos declarados patrimonios de la Nación."
+  	},
+  	{
+  		"name" : "Sol Muisca Territorio Ancestral",
+  		"score" : "4.6",
+  		"description" : "Centro Cultural",
+  		"longitud": 5.6469525,
+  		"latitud": -73.5603984,
+  		"zoom": 17.42,
+  		"urlPicture" : "https://media-cdn.tripadvisor.com/media/photo-s/15/18/7b/fc/maloka.jpg",
+  		"detail" : "primer centro cultural y de interpretación de la cultura Muisca.\nSe crea como una necesidad de ampliar y complementar a los visitantes las vivencias de una de las culturas más significativas en la época prehispánica.\nAdemás presenta la sabiduría astronómica de los MUISCAS a través de calendario solar. Puedes disfrutar de talleres y campamentos astronómicos y de astrofotografía con observación por telescopios."
   	}
   ]
 }
