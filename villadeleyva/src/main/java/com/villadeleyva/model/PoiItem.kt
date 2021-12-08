@@ -14,5 +14,11 @@ data class PoiItem(
     @SerializedName("urlPicture")
     val urlPicture: String,
     @SerializedName("detail")
-    val detail: String
+    val detail: String,
+    @SerializedName("longitud")
+    val longitud: Double,
+    @SerializedName("latitud")
+    val latitud: Double,
+    @SerializedName("zoom")
+    val zoom: Float
 ): Serializable

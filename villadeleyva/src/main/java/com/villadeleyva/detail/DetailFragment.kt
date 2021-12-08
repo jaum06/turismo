@@ -7,7 +7,13 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.navArgs
+import com.google.android.gms.maps.CameraUpdateFactory
+import com.google.android.gms.maps.OnMapReadyCallback
+import com.google.android.gms.maps.SupportMapFragment
+import com.google.android.gms.maps.model.LatLng
+import com.google.android.gms.maps.model.MarkerOptions
 import com.squareup.picasso.Picasso
+import com.villadeleyva.R
 import com.villadeleyva.databinding.FragmentDetailBinding
 import com.villadeleyva.main.MainActivity
 
@@ -40,7 +46,16 @@ class DetailFragment : Fragment() {
             textView8.text = poi.score.toString()
             textView9.text = poi.detail
             Picasso.get().load(poi.urlPicture).into(imageView)
+            val callback = OnMapReadyCallback { googleMap ->
+                val villaDeLeyva = LatLng(poi.longitud, poi.latitud)
+                googleMap.addMarker(MarkerOptions().position(villaDeLeyva).title(poi.name))
+                googleMap.moveCamera(CameraUpdateFactory.newLatLngZoom(villaDeLeyva,poi.zoom))
+            }
+            val mapFragment = childFragmentManager.findFragmentById(R.id.maps) as SupportMapFragment?
+            mapFragment?.getMapAsync(callback)
         }
+
+
     }
 
 }
