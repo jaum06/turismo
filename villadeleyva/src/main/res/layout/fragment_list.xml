@@ -144,6 +144,16 @@
             app:layout_constraintVertical_bias="0.0"
             tools:listitem="@layout/card_view_poi_item" />
 
+        <Button
+            android:id="@+id/mapButton"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@android:color/transparent"
+            android:foreground="@drawable/ic_baseline_map_24"
+            app:layout_constraintBottom_toBottomOf="@+id/imageViewx"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:ignore="SpeakableTextPresentCheck" />
+
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

@@ -33,16 +33,19 @@ class ListFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
         (activity as MainActivity?)?.hideIcon()
         listViewModel.loadMockPoiFromJson(context?.assets?.open("pois.json"))
-        listViewModel.onPoiLoaded.observe(viewLifecycleOwner,{result ->
+        listViewModel.onPoiLoaded.observe(viewLifecycleOwner, { result ->
             onPoiLoadedSubscribe(result)
         })
 
-        poiAdapter = PoiAdapter(listPoi,onItemClicked = {onPoiClicked(it)})
+        poiAdapter = PoiAdapter(listPoi, onItemClicked = { onPoiClicked(it) })
 
-        listBinding.poiRecyclerView.apply{
-            layoutManager = LinearLayoutManager(context,LinearLayoutManager.HORIZONTAL,false)
+        listBinding.poiRecyclerView.apply {
+            layoutManager = LinearLayoutManager(context, LinearLayoutManager.HORIZONTAL, false)
             adapter = poiAdapter
             setHasFixedSize(false)
+        }
+        listBinding.mapButton.setOnClickListener {
+            findNavController().navigate(ListFragmentDirections.actionListFragmentToMapsFragment())
         }
     }
 
