@@ -54,7 +54,7 @@ class DetailFragment : Fragment() {
             val mapFragment = childFragmentManager.findFragmentById(R.id.maps) as SupportMapFragment?
             mapFragment?.getMapAsync(callback)
         }
-
+//Solo para estar seguro que funciona
 
     }
 
