@@ -29,6 +29,12 @@ class PoiAdapter(
 
     override fun getItemCount(): Int = poiList.size
 
+    fun appendItems(newItems: ArrayList<PoiItem>){
+        poiList.clear()
+        poiList.addAll(newItems)
+        notifyDataSetChanged()
+    }
+
     class PoiViewHolder(itemview: View) : RecyclerView.ViewHolder(itemview) {
         private var pictureImageView: ImageView = itemview.findViewById(R.id.picture_image_view)
         private var nameTextView: TextView = itemview.findViewById(R.id.name_text_view)
